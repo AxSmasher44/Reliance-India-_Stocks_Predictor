@@ -1,0 +1,2 @@
+1) K Nearest Neighbours
+    r2_score = 0.95
